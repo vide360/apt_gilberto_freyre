@@ -1,0 +1,79 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_6C461C80_4F50_7AB2_41CE_0F97971DFED7.source = https://wa.me/5583988151119
+LinkBehaviour_6F13C649_4F53_A9B5_41AC_81C57BC5737A.source = https://wa.me/5583988151119
+LinkBehaviour_6B06B24A_4F51_E9B7_41D1_9E32A8128E35.source = https://wa.me/5583998295611
+LinkBehaviour_6C467C7D_4F50_7A52_41B7_428732147F06.source = https://wa.me/5583998295611
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_5DBA7B9A_4B50_5ED6_41C3_2D463DE5272F.text = Cozinha
+HotspotPanoramaOverlayTextImage_6F3501AC_4B50_AAF2_41CA_DFA4B0D317BC.text = DCE
+HotspotPanoramaOverlayTextImage_7ACDBF1C_4B50_57D2_41D1_21362CAAA8C2.text = Entrada de serviço
+HotspotPanoramaOverlayTextImage_5DC56F5A_4B50_7657_41D2_71A9400B1736.text = Lavabo
+QuadHotspotPanoramaOverlayTextImage_6E8D62F4_4F50_EE53_41A7_BF10F8E08DA7.text = Suite 01
+QuadHotspotPanoramaOverlayTextImage_6F207A3D_4F50_59D2_41C3_E13B7DB54FAF.text = Suite 02
+HotspotPanoramaOverlayTextImage_553B045D_4CD1_AA52_41BF_D72408922B5A.text = Suite Master
+QuadHotspotPanoramaOverlayTextImage_6B0CB87A_4DF1_BA56_41C2_932ECC56162C.text = Suite Master
+HotspotPanoramaOverlayTextImage_56CDF6B0_4B70_56D2_41D2_44BE378ACA3B.text = Área de Serviço
+
+## Media
+
+### Audio
+audiores_6E73EFD8_4CD0_B652_41C2_90FC34533597.mp3Url = media/audio_689C4FFC_4D33_D652_41C9_E14F652481B9_pt.mp3
+
+### Image
+imlevel_52A48EEE_4DD0_B64F_41A0_46B03833229B.url = media/panorama_58B5F9D7_4BD0_5A5E_41C4_F6C2CB846D69_HS_6sukqsdz_pt.png
+imlevel_69D5EFB3_4DD1_F6D5_41C9_5465FBBF9C41.url = media/panorama_58B5F9D7_4BD0_5A5E_41C4_F6C2CB846D69_HS_v4df1kur_pt.png
+imlevel_68310D1E_4DD1_FBCE_41C5_30EAB452C1F6.url = media/panorama_5BE931BD_4BD0_AAD2_41C1_6888D91B929D_HS_pzkgjzdo_pt.png
+imlevel_68F50EC8_4F50_56B3_41C7_104279EBF106.url = media/panorama_5BE963FB_4BD0_EE56_41A1_2DD53D7B2E35_HS_1rjs411n_pt.png
+imlevel_64CA5BC9_4F70_5EB2_41C8_4224F1FC50A4.url = media/panorama_5BE963FB_4BD0_EE56_41A1_2DD53D7B2E35_HS_h99a8she_pt.png
+imlevel_6C45CBCF_4DF0_5E4E_41B8_39FBD2286935.url = media/panorama_5BE963FB_4BD0_EE56_41A1_2DD53D7B2E35_HS_wqsj0clq_pt.png
+imlevel_68A69BAA_4DD1_FEF6_41CA_7DC20FE3445B.url = media/panorama_5BEF9454_4BD7_EA52_41CD_130FE31C0E13_HS_g9b6bfrq_pt.png
+imlevel_68B9BBEC_4DD1_FE72_41C4_A2384D06C9C1.url = media/panorama_5BEF9454_4BD7_EA52_41CD_130FE31C0E13_HS_q0dvfyr8_pt.png
+imlevel_6C7E3FCD_4DF3_D64D_41D2_4CC971F3E2C0.url = media/panorama_5BEFCF8D_4BD7_B6B2_41D1_5A5FE96B885C_HS_qhw8y7mv_pt.png
+
+### Title
+panorama_58B5F9D7_4BD0_5A5E_41C4_F6C2CB846D69.label = area_serv
+panorama_5B07FBFF_4BD0_BE4E_41BA_5B5FAF1ECA26.label = banh_suite01
+panorama_5BE9682B_4BD0_D9F6_41C2_9DDABAD701B5.label = banh_suiteM03
+panorama_5BE904D5_4BD0_EA52_41CF_BE2040AE5B4F.label = banho_suite02
+panorama_5BE963FB_4BD0_EE56_41A1_2DD53D7B2E35.label = corredor
+panorama_5BE931BD_4BD0_AAD2_41C1_6888D91B929D.label = cozinha
+panorama_5BE92038_4BD0_A9D2_41CF_762BCB85CFAE.label = entrada
+panorama_5BE8ED72_4BD0_5A56_41A5_DBCCC455F0D4.label = entrada_serv
+panorama_5BE8CB59_4BD0_7E52_41B6_B98AA6CC2583.label = hall_entrada
+panorama_5BE8BACC_4BD0_5EB2_41B0_D2AA8E117C3A.label = lavabo
+panorama_5BEEF88B_4BD7_BAB6_41C1_D4A700F5D056.label = quarto_empreg
+panorama_5BEF4656_4BD7_D65E_418C_A569253DF9C0.label = rua
+panorama_5BEF56B6_4BD7_F6DE_41C0_088B769A1C5B.label = sala1
+panorama_5BEF9454_4BD7_EA52_41CD_130FE31C0E13.label = sala2
+panorama_5BE3E22D_4BD7_A9CD_41B3_F72CFC36B445.label = suite01
+panorama_5BEFCF8D_4BD7_B6B2_41D1_5A5FE96B885C.label = suite02
+panorama_5BEF2D78_4BD0_5A52_41CF_CEEC8B7719AD.label = suiteM01
+panorama_5BEFBB4B_4BD0_7FB5_41CA_4480A1274FC2.label = suiteM02
+
+## Skin
+
+### Image
+Image_69B04C98_4CD7_BAD2_41CB_EA3207A0D3AA_mobile.url = skin/Image_69B04C98_4CD7_BAD2_41CB_EA3207A0D3AA_mobile_pt.gif
+Image_69B04C98_4CD7_BAD2_41CB_EA3207A0D3AA.url = skin/Image_69B04C98_4CD7_BAD2_41CB_EA3207A0D3AA_pt.gif
+Image_6C469BA7_4CD0_7EFD_4193_40505395420E_mobile.url = skin/Image_6C469BA7_4CD0_7EFD_4193_40505395420E_mobile_pt.gif
+Image_6C469BA7_4CD0_7EFD_4193_40505395420E.url = skin/Image_6C469BA7_4CD0_7EFD_4193_40505395420E_pt.gif
+
+### Label
+Label_5324E46B_4CD0_EA76_41B9_63E0CDBD8C9A_mobile.text = Miguel
+Label_5324E46B_4CD0_EA76_41B9_63E0CDBD8C9A.text = Miguel
+Label_525D241B_4CD0_69D6_41CC_F0DBCA13F68D.text = Regis Felipe
+Label_525D241B_4CD0_69D6_41CC_F0DBCA13F68D_mobile.text = Regis Felipe
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Sem Título 4
